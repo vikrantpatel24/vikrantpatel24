@@ -33,15 +33,17 @@
     
     status:Planned
 
-### 2. Static-Mixer-Process-Intensification
+### 2. Energy System CFD and DigitalTwin
     Tools:
     - OpenFOAM
     - Python
+    - Optional Aspen Plus
     
     Topics:
-    - Mixing
-    - Pressure Drop
-    - Process Intensification
+    - Industrial Cooling
+    - Thermal Energy Storage
+    - Hydrogen/Process Cooling
+    - Decarbonization
     
     Status: Planned
 
